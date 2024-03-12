@@ -10,7 +10,7 @@ sphinx:
   configuration: docs/conf.py
 
 formats:
-  - all
+  - "all"
 
 python:
   install:
